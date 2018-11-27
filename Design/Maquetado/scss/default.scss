@@ -1,0 +1,31 @@
+//*****************
+//VARIABLES
+//*****************
+$color-principal: #17406D;
+$color-secundario: #A78718;
+$color-toolbar: #292b2c;
+$color-footer: #292b2c;
+$color-text: #000000;
+$color-text-light: #ffffff;
+.tarjeta a.boton {
+    background: $color-secundario!important;
+}
+.bloque-contenido .btn {
+    background-color: $color-secundario!important;
+    border-color: $color-secundario!important;
+}
+.text-light {
+    color: $color-text-light;
+}
+//*****************
+//CHAT
+//*****************
+#chat-box-header {
+    background: $color-secundario;
+    border: 1px solid $color-secundario;
+    box-shadow: $color-toolbar 0px 0px 7px inset;
+}
+#chat-box {
+    border: 1px solid $color-secundario;
+    background-color: rgb(255, 255, 255);
+}

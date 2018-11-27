@@ -1,0 +1,3 @@
+Database: SlotdataPrd
+User: slotusradm
+Pass: Joaquin140388

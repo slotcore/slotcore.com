@@ -1,0 +1,21 @@
+.tarjeta a.boton {
+  background: #A78718 !important; }
+
+.bloque-contenido .btn {
+  background-color: #A78718 !important;
+  border-color: #A78718 !important; }
+
+.text-light {
+  color: #ffffff; }
+
+#chat-box-header {
+  background: #A78718;
+  border: 1px solid #A78718;
+  -webkit-box-shadow: #292b2c 0px 0px 7px inset;
+          box-shadow: #292b2c 0px 0px 7px inset; }
+
+#chat-box {
+  border: 1px solid #A78718;
+  background-color: white; }
+
+/*# sourceMappingURL=default.css.map */
